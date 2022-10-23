@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CustomASP\CustomASP\bin\Debug\net6.0\CustomASP.exe
+C:\Users\HP\source\repos\CustomASP\CustomASP\bin\Debug\net6.0\CustomASP.deps.json
+C:\Users\HP\source\repos\CustomASP\CustomASP\bin\Debug\net6.0\CustomASP.runtimeconfig.json
+C:\Users\HP\source\repos\CustomASP\CustomASP\bin\Debug\net6.0\CustomASP.dll
+C:\Users\HP\source\repos\CustomASP\CustomASP\bin\Debug\net6.0\CustomASP.pdb
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.AssemblyInfo.cs
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.dll
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\refint\CustomASP.dll
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.pdb
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\CustomASP.genruntimeconfig.cache
+C:\Users\HP\source\repos\CustomASP\CustomASP\obj\Debug\net6.0\ref\CustomASP.dll
