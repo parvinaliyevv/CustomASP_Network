@@ -1,3 +1,2 @@
 ﻿global using System.Net;
-
-global using CustomASP.Controllers;
+global using System.Configuration;

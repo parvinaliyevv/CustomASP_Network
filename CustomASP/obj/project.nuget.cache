@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "vcj1g8yuk9fiGCsOieFvoOxPQ9o6BSrpu+QemNCzR2e67JW+uXD+7kYDZrJud+jVKujeSuDx59kyRnydep86KA==",
+  "dgSpecHash": "/j/P8p0pK9UrbfUKX/YHd4WWDnWTXMi6KhAbIiHoSFZ1zgROV1+tS9fOzXlcQ+JQTAm6hum+Ud6kv+utwV/dNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\CustomASP\\CustomASP\\CustomASP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

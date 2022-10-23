@@ -4,14 +4,18 @@ public static class Program
 {
     private static HttpListener _listener;
 
+    private static int _portNumber;
+
 
     static Program()
     {
         _listener = new();
 
+        _portNumber = int.Parse(ConfigurationManager.AppSettings["PortNumber"]);
+
         try
         {
-            _listener.Prefixes.Add("http://localhost:27001/");
+            _listener.Prefixes.Add(string.Format("http://localhost:{0}/", _portNumber));
             _listener.Start();
         }
         catch { }
@@ -40,6 +44,8 @@ public static class Program
 
     private static void CommunicationWithHost(HttpListenerContext httpListenerContext)
     {
+        ArgumentNullException.ThrowIfNull(httpListenerContext);
+
         var request = httpListenerContext.Request;
         var response = httpListenerContext.Response;
 
